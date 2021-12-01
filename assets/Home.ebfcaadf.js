@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.5a098b48.js";import{o as r,m as o}from"./vendor.36dd0c23.js";const n={};function c(t,a){return r(),o("h1",null,"Studying and Encoding Memories")}var d=e(n,[["render",c]]);export{d as default};
